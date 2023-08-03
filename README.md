@@ -4,8 +4,3 @@
 
   Soon enough I'll put on a link to my linkedin and dev.to. Stay tuned ;)
   
-
-<!---
-macariobm/macariobm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
